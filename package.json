@@ -1,8 +1,8 @@
 {
-  "name": "@joinflux/firebase-remote-config",
+  "name": "@rgarciadelongoria/firebase-remote-config",
   "version": "0.5.1",
   "description": "A native plugin for firebase remote config",
-  "homepage": "https://github.com/joinflux/firebase-remote-config",
+  "homepage": "https://github.com/rgarciadelongoria/firebase-remote-config",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
     "prepublishOnly": "npm run build",
     "npm-publish": "np"
   },
-  "author": "Priyank Patel <priyank.patel@stackspace.ca>",
+  "author": "Rubén García de Longoria <rgarciadelongoria@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "firebase": "^8.4.1",
@@ -55,9 +55,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joinflux/firebase-remote-config"
+    "url": "https://github.com/rgarciadelongoria/firebase-remote-config"
   },
   "bugs": {
-    "url": "https://github.com/joinflux/firebase-remote-config/issues"
+    "url": "https://github.com/rgarciadelongoria/firebase-remote-config/issues"
   }
 }
