@@ -1,6 +1,6 @@
 {
   "name": "@rgarciadelongoria/firebase-remote-config",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "description": "A native plugin for firebase remote config",
   "homepage": "https://github.com/rgarciadelongoria/firebase-remote-config",
   "main": "dist/esm/index.js",
