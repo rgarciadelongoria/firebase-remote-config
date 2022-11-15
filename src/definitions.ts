@@ -14,6 +14,7 @@ export interface FirebaseRemoteConfigPlugin {
 
 export interface initOptions {
   minimumFetchInterval?: number;
+  minimumFetchIntervalInSeconds?: number;
   fetchTimeout?: number;
 }
 
